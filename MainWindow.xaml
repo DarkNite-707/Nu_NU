@@ -1,0 +1,44 @@
+﻿<Window  xmlns:Properties="clr-namespace:T_M_App_Task_1.Properties" x:Class="T_M_App_Task_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T_M_App_Task_1"
+        mc:Ignorable="d"
+      
+         Title="Sipho's Time_management Application" Height="1200" Width="600" WindowStartupLocation="Manual" ResizeMode="NoResize" WindowState="Minimized">
+	<Window.Background>
+		<SolidColorBrush Color="#FF767676" Opacity="2.5"/>
+	</Window.Background>
+	
+	
+	<Border Padding="10">
+		<StackPanel Margin="0,24,0,-24">
+			<Label Content="Welcome To Sipho'S Time Management Application" FontWeight="Bold" Margin="0 10" />
+
+			<Grid>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="2*"/>
+					<ColumnDefinition Width="*"/>
+				</Grid.ColumnDefinitions>
+				<!--User prompts-->
+				<StackPanel Grid.Column="0" Margin="0 0 20 0">
+					<TextBlock Text="Divulge gross monthly income R: "/>
+					<TextBox x:Name="InputIncome1" Background="#eee" Padding="2" />
+					<TextBlock Text=" " FontWeight="Bold" Margin="0"/>
+
+				</StackPanel>
+				<!--Tax projection-->
+				<StackPanel Grid.Column="1">
+					<TextBlock Text="Your Taxed Gross income is R:"/>
+					<TextBox x:Name="TaxOutput" IsReadOnly="True" Background="#eee" Padding="2" >
+						<TextBox.DataContext>
+							<Properties:Settings/>
+						</TextBox.DataContext>
+					</TextBox>
+				</StackPanel>
+			</Grid>
+			
+		</StackPanel>
+	</Border>
+</Window>

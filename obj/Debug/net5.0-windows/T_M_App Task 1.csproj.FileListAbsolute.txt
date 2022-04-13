@@ -1,0 +1,23 @@
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\T_M_App Task 1.exe
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\T_M_App Task 1.deps.json
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\T_M_App Task 1.runtimeconfig.json
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\T_M_App Task 1.runtimeconfig.dev.json
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\T_M_App Task 1.dll
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\ref\T_M_App Task 1.dll
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\bin\Debug\net5.0-windows\T_M_App Task 1.pdb
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.csproj.AssemblyReference.cache
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1_MarkupCompile.cache
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1_MarkupCompile.lref
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.g.resources
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.AssemblyInfoInputs.cache
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.AssemblyInfo.cs
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.dll
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\ref\T_M_App Task 1.dll
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.pdb
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\T_M_App Task 1.genruntimeconfig.cache
+C:\Users\Fadzai\Desktop\PROG6221 Task 2Matthew Bosha 18001980\Semester 2 Task 1\T_M_App Task 1\T_M_App Task 1\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
